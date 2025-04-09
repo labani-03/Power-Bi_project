@@ -3,7 +3,7 @@ Superstore Power BI Dashboard
 
 This project is a Power BI dashboard built using the popular Superstore.csv dataset. It provides interactive visualizations to analyze sales, profit, customer segments, regional performance, and product categories.
 
-Dataset
+Dataset:
 
 The dataset is based on the fictional Superstore sales data. It includes information like:
 
@@ -13,14 +13,18 @@ The dataset is based on the fictional Superstore sales data. It includes informa
 - Order and Ship dates
 - You can find the dataset here: [superstore.csv](./Superstore.csv)
 
-  Features
+  Features:
 
 The Power BI Dashboard includes:
 
 -Bar Chart
+
 -Donut Chart
+
 -Slicer
+
 -Card
+
 -Stacked area Chart
 
 Files:
